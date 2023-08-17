@@ -3,7 +3,8 @@ This repo contains my notes following Andrej Karpathy's [Neural Networks: Zero t
 
 
 
-<img src="sensei.jpeg" alt="karpathy" width="600"/>
+<a href="https://karpathy.ai/"><img src="sensei.jpeg" alt="karpathy" width="600"/></a>
+
 
 
 | Repo | YouTube Video | Topic |
