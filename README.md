@@ -1,7 +1,9 @@
 # Lectures
 This repo contains my notes following Andrej Karpathy's [Neural Networks: Zero to Hero](https://youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ) playlist. 
 
-![karpathy](sensei.jpeg)
+
+
+<img src="sensei.jpeg" alt="karpathy" width="200"/>
 
 
 | Repo | YouTube Video | Topic |
