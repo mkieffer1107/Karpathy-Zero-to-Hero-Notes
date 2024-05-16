@@ -16,4 +16,20 @@ This repo contains my notes following Andrej Karpathy's [Neural Networks: Zero t
 | N/A | [Building makemore Part 4: Becoming a Backprop Ninja](https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5) | -- |
 | N/A | [Building makemore Part 5: Building a WaveNet](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6) | -- |
 | N/A | [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7) | -- |
-___
+
+
+---
+## Set up Conda Environment
+
+```sh
+conda create --name z2h python=3.11 -y
+conda activate z2h
+pip install -r requirements.txt
+```
+
+## Delete Conda Environment
+
+```sh
+conda deactivate
+conda env remove --name z2h
+```
