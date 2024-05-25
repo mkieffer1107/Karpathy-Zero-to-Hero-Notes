@@ -2,3 +2,5 @@ torch
 jupyter
 tqdm
 matplotlib
+regex
+tiktoken
