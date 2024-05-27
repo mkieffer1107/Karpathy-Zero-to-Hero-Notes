@@ -16,7 +16,7 @@ This repo contains my notes following Andrej Karpathy's [Neural Networks: Zero t
 | N/A | [Building makemore Part 4: Becoming a Backprop Ninja](https://www.youtube.com/watch?v=q8SA3rM6ckI&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=5) | -- |
 | N/A | [Building makemore Part 5: Building a WaveNet](https://www.youtube.com/watch?v=t3YJ5hKiMQ0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=6) | -- |
 | N/A | [Let's build GPT: from scratch, in code, spelled out.](https://www.youtube.com/watch?v=kCc8FmEb1nY&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=7) | -- |
-| [minbpe](minbpe/bpe.ipynb) | [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9) | SolidGoldMagikarp, tokenization |
+| [minbpe](minbpe/bpe.ipynb) | [Let's build the GPT Tokenizer](https://www.youtube.com/watch?v=zduSFxRajkE&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ&index=9) | SolidGoldMagikarp, tokenization, byte pair encoding |
 
 
 
